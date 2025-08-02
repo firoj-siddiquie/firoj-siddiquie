@@ -1,16 +1,14 @@
-## Hi there 👋
+# I'm Firoj Siddiquie 🔥
+```python
+def readme():
+    """Trying to build things that matter ✨"""
+    findmehere = {
+        "Discord": "@sonusid1325",
+        "Instagram": "instagram.com/sonusid1325",
+        "X": "x.com/sonusid1325",
+    }
+    for k, v in findmehere.items():
+        print(f"{k:>9}: {v}")
 
-<!--
-**firoj-siddiquie/firoj-siddiquie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+readme()
+```
